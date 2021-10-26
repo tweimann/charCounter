@@ -11,7 +11,7 @@ A simple NodeJS-Script that can count the Characters in a String.
 
 | Distro        | Command                            |
 |---------------|------------------------------------|
-| DEBIAN        | sudo apt install npm nodejs git    |
+| Debian        | sudo apt install npm nodejs git    |
 | SuSE/openSUSE | sudo zypper install npm nodejs git |
 | Arch          | sudo pacman -S npm nodejs git      |
 | Fedora        | sudo dnf install npm nodejs git    |
