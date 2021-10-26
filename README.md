@@ -3,9 +3,11 @@ A simple NodeJS-Script that can count the Characters in a String.
 
 ## Requirements:
 `
+
 -a working installation of NodeJS and NPM
 
 -the readline NPM package
+
 `
 
 ## Install:
@@ -18,7 +20,9 @@ A simple NodeJS-Script that can count the Characters in a String.
 | Fedora        | sudo dnf install npm nodejs git    |
 
 `
+
 git clone git://github.com/tweimann/charCounter.git
 
 cd ./charCounter/
+
 `
